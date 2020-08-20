@@ -1,0 +1,1 @@
+{"version":3,"sources":["Dialogs.module.css"],"names":[],"mappings":"AAAA,wBACC,YACD,CAEA,8BACC,SACD,CAEA,+CACC,UACD,CAEA,yBACC,SACD","file":"6.d07f710d.chunk.css","sourcesContent":[".dialogs {\r\n\tdisplay: flex\r\n}\r\n\r\n.dialogs_items {\r\n\twidth: 50%;\r\n}\r\n\r\n.dialog a.active {\r\n\tcolor: gold;\r\n}\r\n\r\n.messages {\r\n\twidth: 50%;\r\n}"]}

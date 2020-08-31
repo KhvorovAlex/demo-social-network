@@ -1,0 +1,1 @@
+{"version":3,"sources":["ErrorLogin.css"],"names":[],"mappings":"AAAA,aACC,eAAgB,CAChB,SAAU,CACV,oBAAqB,CACrB,YAAa,CACb,iBACD","file":"6.80ca344c.chunk.css","sourcesContent":[".error-login {\r\n\tmargin-top: 10px;\r\n\tcolor: red;\r\n\tborder: 2px solid red;\r\n\tpadding: 10px;\r\n\ttext-align: center;\r\n}"]}

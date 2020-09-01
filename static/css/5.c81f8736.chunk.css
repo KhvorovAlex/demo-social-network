@@ -1,0 +1,2 @@
+.paginator{display:flex;justify-content:center;align-items:center;margin:20px 0}.user{width:50%;padding:10px 15px;cursor:pointer;transition:all .4s;display:flex;justify-content:space-between;align-items:flex-end;border:1px solid #e6f0f3;margin-bottom:10px;border-radius:5px}.user>button{width:110px}.user:last-of-type{margin-bottom:40px}.user:hover{background:#e6f0f3}.avatar_img{width:100px}.user_avatar{display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start}
+/*# sourceMappingURL=5.c81f8736.chunk.css.map */

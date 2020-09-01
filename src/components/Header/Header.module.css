@@ -1,0 +1,34 @@
+header {
+	height: 75px;
+	background-color: #355c7d;
+}
+
+.header__body {
+	display: flex;
+	justify-content: space-between;	
+}
+
+.header__logo {
+	display: block;
+	width: 100px;
+	padding: 10px;
+}
+
+.header__logo img {
+	width: 100%;
+}
+
+.login_block {
+	display: flex;
+	align-items: center;
+	padding: 0 25px;
+}
+
+.login_block a {
+	color: #ffffff
+}
+
+.login_authUser > span {
+	padding: 0 10px;
+	color: #ffffff;
+}

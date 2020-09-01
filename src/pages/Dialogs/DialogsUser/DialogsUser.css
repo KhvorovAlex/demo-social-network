@@ -1,0 +1,49 @@
+.dialogs__item {
+	margin-bottom: 10px;
+	padding: 10px;
+	transition: all 400ms;
+}
+
+.dialogs__item:hover {
+	background-color: whitesmoke;		
+}
+
+.dialogs__itemBody {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: #555555;	
+}
+
+.dialogs__itemBody:hover {	
+	text-decoration: none;
+	color: #555555;	
+}
+
+.dialogs__itemImg {
+	flex: 0.2;
+	border-radius: 100%;
+	overflow: hidden;
+}
+
+.dialogs__itemImg > .item__img {
+	width: 100%;
+}
+
+.dialogs__itemText {
+	flex: 0.5;
+	padding: 0 10px;
+}
+
+.dialogs__itemText > .text__lastVisit {
+	font-size: 12px;
+	color: lightslategray;
+}
+
+.dialogs__itemText > .text__lastVisit > span {
+	display: block;
+}
+
+.dialogs__itemDate {
+	flex: 0.3;
+}

@@ -1,0 +1,29 @@
+.avatar__descriptionList {
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+
+.avatar__descriptionItem {
+	margin-bottom: 10px;
+}
+
+.avatar__descriptionList > input, 
+.avatar__descriptionItem > input,
+.avatar__descriptionText {
+	margin-left: 5px;
+}
+
+.avatar__descriptionItem > h3, 
+.avatar__descriptionList > h4 {
+	display: inline-block;
+	margin: 0;
+	font-size: 14px;
+}
+
+.avatar__descriptionItem:last-child > h3 {
+	margin-bottom: 10px;
+}
+
+.input__error {
+	border: 2px solid red;
+}

@@ -1,0 +1,47 @@
+
+.profile__avatar {
+	display: flex;
+	flex-direction: column;	
+}
+
+.profile__avatar .input-group {
+	padding-top: 15px;
+}
+
+.avatar {
+	width: 20%
+}
+
+.avatar__img {
+	border-radius: 100%;
+	overflow: hidden;
+}
+
+.avatar img {
+	width: 100%
+}
+
+.btn__file {
+	position: relative;
+	overflow: hidden;
+	font-size: 10px;
+}
+
+.btn__file input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	font-size: 100px;
+	text-align: right;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	background: red;
+	cursor: inherit;
+	display: block;
+}
+
+.contacts__list {
+	padding-left: 20px;
+}

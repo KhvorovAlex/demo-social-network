@@ -1,0 +1,8 @@
+.profile__bg {
+	height: 150px;
+	overflow: hidden;
+}
+
+.profile__bg img {
+	width: 100%
+}

@@ -1,0 +1,27 @@
+.main_nav {
+	background-color: #355c7d;
+	padding: 10px 0;
+}
+
+.item {
+	padding: 10px 20px;
+	cursor: pointer;
+	transition: all 400ms;
+}
+
+.item:hover {
+	background-color: #254968
+}
+
+.item_link {
+	color: #ffffff;
+}
+
+.item_link:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.item_link.active {
+	color: gold;
+}

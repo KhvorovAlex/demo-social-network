@@ -1,0 +1,9 @@
+.error-login {
+	position: absolute;
+	color: red;
+	border: 2px solid red;
+	padding: 10px;
+	text-align: center;
+	margin-top: 10px;
+	width: auto	
+}
